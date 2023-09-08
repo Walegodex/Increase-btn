@@ -1,0 +1,43 @@
+/* div h1 {
+    align-items: center;
+} */
+.whole {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 45vh;
+}
+.whole  .h1 {
+    background-color: rgb(180, 54, 180);
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    margin-top: -85px;
+    border-radius: 50px;
+}
+h1 {
+    text-align: center;
+    margin-top: 90px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.sign {
+    margin-left: 30px;
+    font-size: 50px;
+    margin-top: -80px;
+}
+ .p {
+    margin-left: -370px;
+    margin-top: 60px;
+    cursor: pointer;
+    width: 0;
+}
+.pp {
+    margin-top: -107px;
+    cursor: pointer;
+}
+body {
+    background-color: peru;
+}
